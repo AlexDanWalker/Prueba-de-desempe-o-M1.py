@@ -1,10 +1,10 @@
 # initial inventory
 stock = [
-    {"name": "Pintura", "price": 30, "amount": 5},
-    {"name": "Pincel", "price": 10, "amount": 10},
-    {"name": "Martillo", "price": 15, "amount": 3},
-    {"name": "Taladro", "price": 50, "amount": 10},
-    {"name": "Broca", "price": 5, "amount": 10}
+    {"name": "Paint", "price": 30, "amount": 5},
+    {"name": "Brush", "price": 10, "amount": 10},
+    {"name": "Hammer", "price": 15, "amount": 3},
+    {"name": "Drill", "price": 50, "amount": 10},
+    {"name": "Screwdriver", "price": 5, "amount": 10}
 ]
 
 # Function to display the options menu
