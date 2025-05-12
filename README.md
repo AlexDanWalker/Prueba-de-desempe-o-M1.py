@@ -48,7 +48,7 @@ Espero que estas instrucciones te ayuden a ejecutar el programa correctamente.
 
 DATOS DE ENTRADA Y SALIDA:
 
-Opción 1: Agregar producto*
+Opción 1: Agregar producto
 
 Entrada:
 Nombre del producto: Cemento
