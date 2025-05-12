@@ -21,8 +21,8 @@ Requisitos previos:
 Ejecutar el programa:
 
 Abre una terminal o consola en tu computadora.
-Navega hasta el directorio donde guardaste el archivo inventario.py.
-Escribe el comando python inventario.py y presiona Enter.
+Navega hasta el directorio donde guardaste el archivo prueba tecnica M1.
+Escribe el comando python prueba tecnica M1.py y presiona Enter.
 El programa se ejecutará y mostrará el menú principal.
 
 Uso del programa:
